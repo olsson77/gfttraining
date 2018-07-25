@@ -1,0 +1,28 @@
+
+git clone <url> clonar un repositorio
+git init inicializar un repositorio
+
+git add -A --Para añadir los ficheros
+git commit -m 'Comentario'  Hacer commit
+git status -s estado de la rama
+
+
+git push -u origen destino
+
+git reset --soft HEAD~pasosAtras
+
+git checkout -b nombreRama para crear una rama
+
+git checkout nombreRama para cambiar entre las ramas
+
+git push origen destino
+
+git branch -D nombreRama para eliminar la rama
+
+git push --delete origin primeraRama eliminar rama en la master
+
+
+Gestor de GIT
+https://www.gitkraken.com/
+
+https://git.gft.com/devops-trainings/git-workshop/tree/master
