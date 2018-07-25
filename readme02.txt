@@ -1,2 +1,1 @@
-
-Fichero rama primeraRama,segunda rama
+Fichero rama primeraRama, cambio desde segunda Rama
